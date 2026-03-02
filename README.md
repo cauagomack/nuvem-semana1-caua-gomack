@@ -44,6 +44,8 @@
   "resposta": {
     "turma": "Serviços em Nuvem",
     "atividade": "Semana 2",
+
+  - Ou seja, adicionamos dois botões e adicionamos ao JS uma API de clima.
     "timestamp": "2026-03-02T11:30:38.604Z",
     "id": 101
   }
