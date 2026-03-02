@@ -7,4 +7,3 @@
 - Ativei GitHub Pages (main / root) 
 ## Dificuldades 
 - Achar o link do repositorio, mudar o nome do index, e dificuldades como github no geral.
-- *Mensagem de erro* Uncaught TypeError: Cannot read properties of null (reading 'addEventListener')
