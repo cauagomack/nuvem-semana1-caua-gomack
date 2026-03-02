@@ -11,7 +11,7 @@
 # Semana 2 - (GET + POST)
 ## Print
 - <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/95b0eaf1-b22a-46ca-ae52-2eedb7b2c7f9" />
-- O que aparece quando botão GET é clicado:
+## O que aparece quando botão GET é clicado:
 - {
   "fonte": "open-meteo.com",
   "temperatura": 23,
@@ -38,7 +38,7 @@
       "temperature_2m": 23,
       "wind_speed_10m": 14.5
     }
-  - Botão POST:
+## Botão POST:
   - {
   "fonte": "jsonplaceholder.typicode.com",
   "resposta": {
