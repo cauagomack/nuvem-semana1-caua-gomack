@@ -45,7 +45,7 @@
     "turma": "Serviços em Nuvem",
     "atividade": "Semana 2",
 
-Ou seja, adicionamos dois botões e adicionamos ao JS uma API de clima.
+Ou seja, adicionamos dois botões e adicionamos ao JS uma API de clima, com algumas dificuldades em alguns pontos, porém todas superadas 
   
   }
 }
